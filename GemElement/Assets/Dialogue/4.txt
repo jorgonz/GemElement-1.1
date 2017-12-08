@@ -1,0 +1,3 @@
+0Alter77:This ability has 3 charges.
+0Alter77: The first charge teleports you a short distance , the second a medium distance and the third one a long distance
+0Sora:Guess I'll have to control my spamming habit
